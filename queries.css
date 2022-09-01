@@ -1,0 +1,375 @@
+@media only screen and (max-width: 1200px) {
+  .another {
+    position: absolute;
+    margin-left: 16rem;
+    margin-top: -10rem;
+    padding-right: 50px;
+    padding-left: 50px;
+  }
+  #reset {
+    width: 30px;
+    padding-left: 100px;
+    padding-right: 140px;
+    margin-top: 2rem;
+  }
+}
+
+/*small tablet to big tablet:from 768px to1023px*/
+@media only screen and (max-width: 1023px) {
+  .logo {
+    margin-top: 1rem;
+    margin-left: -4.6rem;
+  }
+  .bill {
+    margin-top: 8%;
+    font-size: 20px;
+  }
+  .dollar input,
+  .people {
+    width: 250px;
+    margin-top: 3rem;
+  }
+  .dollar svg {
+    top: 3.3rem;
+  }
+  .dollar {
+    width: 860px;
+    margin-top: 40px;
+    margin-left: 0.5rem;
+  }
+  #plus1,
+  #plus2,
+  #plus3,
+  #plus4,
+  #plus5 {
+    font-size: 20px;
+    width: 35px;
+    padding-left: 25px;
+    padding-right: 30px;
+  }
+  #plus5 {
+    font-size: 20px;
+    width: 35px;
+    padding-left: 25px;
+    padding-right: 30px;
+    position: absolute;
+    margin-left: -2%;
+  }
+  #plus6 {
+    font-size: 17.9px;
+    width: 65px;
+    padding-left: 20px;
+    padding-right: 25px;
+    position: absolute;
+    margin-left: -5%;
+  }
+  .number {
+    margin-top: 16%;
+  }
+
+  .cal {
+    margin-top: 24%;
+    width: 180px;
+    margin-left: -23rem;
+  }
+  .people {
+    margin-top: 18%;
+    margin-left: -4rem;
+    width: 220px;
+  }
+  .person {
+    margin-top: 10%;
+    position: absolute;
+    margin-left: -7.4rem;
+    pointer-events: none;
+  }
+
+  .another {
+    position: absolute;
+    margin-left: 11.5rem;
+    margin-top: -10rem;
+    padding-right: 50px;
+    padding-left: 50px;
+  }
+  #amount {
+    font-size: 18px;
+  }
+  #Total {
+    font-size: 18px;
+  }
+  #sign1 {
+    margin-top: 1.6rem;
+    margin-left: 5rem;
+    font-size: 25px;
+  }
+  #sign2 {
+    margin-top: 1.6rem;
+    margin-left: 5rem;
+    font-size: 25px;
+  }
+  #egg1 {
+    font-size: 20px;
+    margin-left: 4.5rem;
+    margin-top: 1.7rem;
+  }
+  #egg2 {
+    font-size: 20px;
+    margin-left: 4.5rem;
+    margin-top: 1rem;
+  }
+  #reset {
+    width: 30px;
+    padding-left: 100px;
+    padding-right: 140px;
+    margin-top: 2rem;
+  }
+}
+
+/*small phones to small tablets: from 481 to767px*/
+@media only screen and (max-width: 767px) {
+  .logo {
+    margin-top: 1rem;
+    margin-left: -1.6rem;
+  }
+  .bill {
+    margin-top: 8%;
+    font-size: 20px;
+  }
+  .dollar input,
+  .people {
+    width: 250px;
+    margin-top: 3rem;
+  }
+  .dollar svg {
+    top: 3.3rem;
+  }
+  .dollar {
+    width: 860px;
+    margin-top: 40px;
+    margin-left: 0.1rem;
+  }
+  #plus1,
+  #plus2,
+  #plus3,
+  #plus4,
+  #plus5 {
+    font-size: 20px;
+    width: 35px;
+    padding-left: 25px;
+    padding-right: 30px;
+  }
+  #plus5 {
+    font-size: 20px;
+    width: 35px;
+    padding-left: 25px;
+    padding-right: 30px;
+    position: absolute;
+    margin-left: -2%;
+  }
+  #plus6 {
+    font-size: 17.9px;
+    width: 65px;
+    padding-left: 20px;
+    padding-right: 25px;
+    position: absolute;
+    margin-left: -5%;
+  }
+  .number {
+    margin-top: 16%;
+  }
+
+  .cal {
+    margin-top: 24%;
+    width: 180px;
+    margin-left: -23rem;
+  }
+  .people {
+    margin-top: 8%;
+    margin-left: 1rem;
+    width: 220px;
+  }
+  .person {
+    margin-top: 5%;
+    position: absolute;
+    margin-left: -7.4rem;
+    pointer-events: none;
+  }
+
+  .another {
+    position: absolute;
+    margin-left: 10.7rem;
+    margin-top: -10rem;
+    padding-right: 20px;
+    padding-left: 20px;
+  }
+  #amount {
+    font-size: 18px;
+  }
+  #Total {
+    font-size: 18px;
+  }
+  #sign1 {
+    margin-top: 1.6rem;
+    margin-left: 5rem;
+    font-size: 25px;
+  }
+  #sign2 {
+    margin-top: 1.6rem;
+    margin-left: 5rem;
+    font-size: 25px;
+  }
+  #egg1 {
+    font-size: 20px;
+    margin-left: 4.5rem;
+    margin-top: 1.7rem;
+  }
+  #egg2 {
+    font-size: 20px;
+    margin-left: 4.5rem;
+    margin-top: 1rem;
+  }
+  #reset {
+    width: 20px;
+    padding-left: 90px;
+    padding-right: 140px;
+    margin-top: 2rem;
+  }
+}
+
+/*small phones to small tablets: from 0  to 480px*/
+@media only screen and (max-width: 480px) {
+  .row {
+    padding-bottom: 500px;
+  }
+  .logo {
+    margin-top: 3rem;
+    margin-left: 4rem;
+  }
+  .bill {
+    margin-top: -1.8%;
+    font-size: 20px;
+  }
+  .dollar input,
+  .people {
+    width: 250px;
+    margin-top: -10rem;
+  }
+  .dollar svg {
+    top: 0.3rem;
+  }
+  .dollar {
+    width: 900px;
+    margin-top: 40px;
+    margin-left: 1rem;
+  }
+  #plus1 {
+    font-size: 22px;
+    width: 50px;
+    padding-left: 38px;
+    padding-right: 29px;
+    margin-left: 10%;
+  }
+  #plus2 {
+    font-size: 22px;
+    width: 50px;
+
+    padding-left: 35px;
+    padding-right: 30px;
+    margin-left: 20%;
+  }
+  #plus3 {
+    font-size: 22px;
+    width: 50px;
+    padding-left: 35px;
+    padding-right: 30px;
+    margin-left: 1%;
+    margin-top: 2%;
+  }
+  #plus4 {
+    font-size: 22px;
+    width: 50px;
+    padding-left: 35px;
+    padding-right: 30px;
+    margin-left: 15%;
+    margin-top: -5.8%;
+  }
+  #plus5 {
+    position: relative;
+    font-size: 22px;
+    width: 50px;
+    padding-left: 35px;
+    padding-right: 30px;
+    margin-left: 1%;
+    margin-top: 2%;
+  }
+  #plus6 {
+    position: absolute;
+    font-size: 15px;
+    padding-left: 25px;
+    padding-right: 30px;
+    margin-left: 15%;
+    margin-top: -5.7%;
+  }
+
+  .number {
+    margin-top: 22%;
+  }
+
+  .cal {
+    margin-top: 30%;
+    margin-left: -7rem;
+
+    width: 200px;
+  }
+  .people {
+    margin-top: 8%;
+    margin-left: 1rem;
+    width: 220px;
+  }
+  .person {
+    margin-top: 10%;
+    position: absolute;
+    margin-left: -7.4rem;
+    pointer-events: none;
+  }
+
+  .another {
+    position: absolute;
+    margin-left: 0.5rem;
+    margin-top: 3rem;
+    padding-right: 40px;
+    padding-left: 40px;
+  }
+  #amount {
+    font-size: 18px;
+  }
+  #Total {
+    font-size: 18px;
+  }
+  #sign1 {
+    margin-top: 1.6rem;
+    margin-left: 5rem;
+    font-size: 25px;
+  }
+  #sign2 {
+    margin-top: 1.6rem;
+    margin-left: 5rem;
+    font-size: 25px;
+  }
+  #egg1 {
+    font-size: 20px;
+    margin-left: 4.5rem;
+    margin-top: 1.7rem;
+  }
+  #egg2 {
+    font-size: 20px;
+    margin-left: 4.5rem;
+    margin-top: 1rem;
+  }
+  #reset {
+    width: 20px;
+    padding-left: 90px;
+    padding-right: 140px;
+    margin-top: 2rem;
+  }
+}
